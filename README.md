@@ -85,9 +85,7 @@ corps humain, animaux, lieux, proverbes, et plus encore.
 
 ## Auteur
 
-**Fatimetou Ahmed Mahmoud (Fatimetou Nemane)**
-Étudiante SID4 — École Supérieure Polytechnique, Nouakchott, Mauritanie
-Projet Sederni — NLP pour langues à faibles ressources
+**Fatimetou Nemane**
 
 ---
 *4e la shwey w inshAllah dor y3oud yasser* 😉🌍
