@@ -2,30 +2,30 @@
 
 > "shwey mn lhassaniye" signifie "un peu de hassaniya" en hassaniya mauritanien
 
-## Notre histoire
+## 9ssetne
 
 Ce dataset est né d'un projet de guide touristique IA pour Nouakchott.
 En voulant y intégrer un chatbot capable de traduire quelques phrases
 en hassaniya, j'ai réalisé qu'il n'existait presque aucune ressource
 disponible. Trouver les traductions a été un vrai défi.
 
-C'est pourquoi j'ai décidé de partager ce que j'ai collecté — et
+C'est pourquoi j'ai décidé de partager ce que j'ai collecté ,et
 j'invite tout le monde à contribuer. Le hassaniya est parlé par plus
 de 3 millions de personnes en Mauritanie et dans les régions limitrophes,
 mais il est quasi-absent des ressources NLP existantes.
 
 **Même une seule phrase peut faire la différence.**
 
-Aujourd'hui c'est "shwey" (un peu) — mais j'aimerais qu'un jour
+Aujourd'hui c'est "shwey" (un peu) , mais j'aimerais qu'un jour
 ce soit "yasser" (beaucoup) 😉
 
-## Ce dataset peut servir pour
+## Ce dataset n'est qu'une base qui peut servir pour
 
 - La traduction automatique hassaniya-français
 - Les applications touristiques et culturelles
 - L'apprentissage du hassaniya par les non-arabophones
 - La recherche NLP sur les langues à faibles ressources
-- Tout ce que vous pourrez imaginer — et même plus !
+- Tout ce que vous pourrez imaginer ... et même plus !
 
 ## Contenu
 
@@ -45,7 +45,7 @@ ce soit "yasser" (beaucoup) 😉
   "français": "Bonjour",
   "categorie": "salutation",
   "exemple": "On dit 'sbah lkhayr'. La réponse est 'sbah nour'.",
-  "source": "Fatimetou Nemane — locutrice native hassaniya"
+  "source": "Fatimetou Nemane "
 }
 ```
 
@@ -64,7 +64,7 @@ corps humain, animaux, lieux, proverbes, et plus encore.
 
 **Règles importantes — Hassaniya pur (pas du darija) :**
 
-|  Darija |  Hassaniya mauritanien |
+| Darija | Hassaniya mauritanien |
 |---|---|
 | والو | شي |
 | ماقدرت | ماكديت |
@@ -90,4 +90,4 @@ corps humain, animaux, lieux, proverbes, et plus encore.
 Projet Sederni — NLP pour langues à faibles ressources
 
 ---
-*4e la shwey — w inshAllah dor ykoun yasser* 🌍
+*4e la shwey w inshAllah dor y3oud yasser* 😉🌍
